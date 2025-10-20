@@ -1,0 +1,216 @@
+\bibitem{akimoto2019cross}
+Akimoto, K., Hiraoka, T., Sadamasa, K. and Niepert, M.,  ``Cross-sentence n-ary relation extraction using lower-arity universal schemas,'' in \textit{Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)}, pp. 6225--6231, 2019.
+
+\bibitem{bishop2006pattern}
+Bishop, C. M. and Nasrabadi, N. M., ``Pattern recognition and machine learning,'' \textit{New York:Springer}, vol. 4, no. 4, pp. 738, 2006.
+
+
+\bibitem{bunescu2005shortest}
+Bunescu, R. and Mooney, R., ``A shortest path dependency kernel for relation extraction,'' in \textit{Proceedings of the conference on human language technology and empirical methods in natural language processing}, pp. 724--731, 2005.
+
+\bibitem{chen2018exploring}
+Chen, G., Xu, B., Lu, M. and Chen, N. S., ``Exploring blockchain technology and its potential applications for education,'' \textit{Smart Learning Environments}, vol. 5, no. 1, pp. 1--10, 2018.
+
+\bibitem{chen2020multi}
+Chen, Y., Wang, K., Yang, W., Qing, Y., Huang, R. and Chen, P., ``A multi-channel deep neural network for relation extraction,'' \textit{IEEE Access}, vol. 8, pp. 13195--13203, 2020.
+
+\bibitem{chen2021neuralized}
+Chen, Y., Yang, W., Wang, K., Qin, Y., Huang, R. and Zheng, Q.,``A neuralized feature engineering method for entity relation extraction,'' \emph{Neural Networks}, vol. 141, pp. 249--260, 2021.
+
+\bibitem{chen2015feature}
+Chen, Y., Zheng, Q. and Chen, P., ``Feature assembly method for extracting relations in chinese,'' \emph{Artificial Intelligence}, vol. 228, pp. 179--194, 2015.
+
+\bibitem{chen2017set}
+Chen, Y., Zheng, Q. and Chen, P., ``A set space model for feature calculus,'' \emph{IEEE Intelligent Systems}, vol. 32, no. 5, pp. 36--42, 2017.
+
+\bibitem{2018BERT}
+Devlin, J., Chang, M. W., Lee, K. and Toutanova, K., ``Bert: Pre-training of deep bidirectional transformers for language understanding,'' \emph{arXiv preprint arXiv:1810.04805}, 2018.
+
+\bibitem{chen-etal-2014-omni}
+Chen, Y., Zheng, Q. and Zhang, W., ``Omni-word feature and soft constraint for Chinese relation extraction,'' in \emph{Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, Baltimore, Maryland}, Vol. 1 pp. 572--581, 2014.
+
+\bibitem{doddington2004automatic}
+Doddington, G. R., Mitchell, A., Przybocki, M. A., Ramshaw, L. A., Strassel, S. M. and Weischedel, R. M., ``The automatic content extraction (ace) program-tasks, data, and evaluation,'' in \emph{Lrec}, vol. 2, pp. 837--840, Lisbon, 2004.
+
+
+\bibitem{fu2019GraphRel}
+Fu, T. J., Li, P. H. and Ma, W. Y., ``Graphrel: Modeling text as relational graphs for joint entity and relation extraction,'' in \emph{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics}, pp. 1409--1418, 2019.
+
+%\bibitem[{Fu, Li, and Ma(2019{\natexlab{b}})}]{2019GraphRel}
+%Fu, Tsu-Jui, Peng-Hsuan Li, and Wei-Yun Ma. 2019{\natexlab{b}}.
+%\newblock {G}raph{R}el: Modeling text as relational graphs for joint entity and
+%  relation extraction.
+%\newblock In \emph{Proceedings of the 57th Annual Meeting of the Association
+%  for Computational Linguistics}, pages 1409--1418, Association for
+%  Computational Linguistics, Florence, Italy.
+
+\bibitem{gormley2015improved}
+Gormley, M. R., Yu, M. and Dredze, M., ``Improved relation extraction with feature-rich compositional embedding models,'' \emph{arXiv preprint arXiv:1505.02419}, 2015.
+
+\bibitem{guo2019attention}
+Guo, Z., Zhang, Y. and Lu, W., ``Attention guided graph convolutional networks for relation extraction,'' in \emph{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, Florence, Italy.} pp. 241--251, 2019.
+
+\bibitem{gupta2019neural}
+Gupta, P., Rajaram, S., Schütze, H. and Runkler, T., ``Neural relation extraction within and across sentence boundaries,'' in \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, vol. 33, no. 01, pp. 6513--6520, 2019.
+
+\bibitem{gupta2016table}
+Gupta, P., Schütze, H. and Andrassy, B., ``Table filling multi-task recurrent neural network for joint entity and relation extraction,'' in \emph{Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers}, pp. 2537--2547, 2016.
+
+\bibitem{he2018see}
+He, Z., Chen, W., Li, Z., Zhang, M., Zhang, W. and Zhang, M., ``See: Syntax-aware entity embedding for neural relation extraction,'' in \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, vol. 32, no. 01, 2018.
+
+\bibitem{jia2019document}
+Jia, R., Wong, C. and Poon, H., ``Document-level n-ary relation extraction with multiscale representation learning,'' in \emph{Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, vol.1 (Long and Short Papers)}, Association for Computational Linguistics, Minneapolis, Minnesota. pp. 3693--3704, 2019.
+
+%\bibitem[{Jiang et~al.(2019)Jiang, Zheng, Li, Sun, Kong, Jiang, Xiong, Tao, Xu,
+%  Yu et~al.}]{jiang2019gesture}
+%Jiang, Du, Zujia Zheng, Gongfa Li, Ying Sun, Jianyi Kong, Guozhang Jiang, Hegen
+%  Xiong, Bo~Tao, Shuang Xu, Hui Yu, et~al. 2019.
+%\newblock Gesture recognition based on binocular vision.
+%\newblock \emph{Cluster Computing}, 22(6):13261--13271.
+
+\bibitem{kambhatla2004combining}
+Kambhatla, N., ``Combining lexical, syntactic, and semantic features with maximum entropy models for information extraction,'' in \emph{Proceedings of the ACL Interactive Poster and Demonstration Sessions}, pp. 178--181, 2004.
+
+%\bibitem[{Kipf and Welling(2016{\natexlab{a}})}]{2016Semi}
+%Kipf, Thomas~N and Max Welling. 2016{\natexlab{a}}.
+%\newblock Semi-supervised classification with graph convolutional networks.
+%\newblock \emph{arXiv preprint arXiv:1609.02907}.
+
+%\bibitem[{Kipf and Welling(2016{\natexlab{b}})}]{kipf2016variational}
+%Kipf, Thomas~N and Max Welling. 2016{\natexlab{b}}.
+%\newblock Variational graph auto-encoders.
+%\newblock \emph{arXiv preprint arXiv:1611.07308}.
+
+\bibitem{liu2019reet}
+Liu, H., Wang, P., Wu, F., Jiao, P., Wang, W., Xie, X. and Sun, Y., ``Reet: Joint relation extraction and entity typing via multi-task learning,'' \emph{CCF International Conference on Natural Language Processing and Chinese Computing}, Springer, pp. 327--339, 2019. 
+
+\bibitem{liu2015regnetwork}
+Liu, Z. P., Wu, C., Miao, H. and Wu, H., ``Regnetwork: an integrated database of transcriptional and post-transcriptional regulatory networks in human and mouse,'' \emph{Database}, 2015.
+
+\bibitem{luan-etal-2018-multi}
+Luan, Y., He, L., Ostendorf, M. and Hajishirzi, H., ``Multi-task identification of entities, relations, and coreference for scientific knowledge graph construction,'' in \emph{Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing}, Association for Computational Linguistics, Brussels, Belgium, pp. 3219--3232, 2018.
+
+\bibitem{mandya2018combining}
+Mandya, A., Bollegala, D., Coenen, F. and Atkinson, K., ``Combining long short term memory and convolutional neural network for cross-sentence n-ary relation extraction,''
+\emph{arXiv preprint arXiv:1811.00845}, 2018.
+
+\bibitem{mcdonald2005simple}
+McDonald, R., Pereira, F., Kulick, S., Winters, S., Jin, Y. and White, P., ``Simple algorithms for complex relation extraction with applications to biomedical ie,'' in \emph{Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (ACL’05)}, pp. 491--498, 2005.
+
+\bibitem{mikolov2013efficient}
+Mikolov, T., Chen, K., Corrado, G. and Dean, J., ``Efficient estimation of word representations in vector space,'' \emph{arXiv preprint arXiv:1301.3781}, 2013.
+
+\bibitem{miwa2016end}
+Miwa, M. and Bansal, M., ``End-to-end relation extraction using lstms on sequences and tree structures,'' in \emph{Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (vol. 1: Long Papers)}, 2016.
+
+\bibitem{miwa2014modeling}
+Miwa, M. and Sasaki, Y., ``Modeling joint entity and relation extraction with table representation,'' in \emph{Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, pp. 1858--1869, 2014.
+
+\bibitem{nguyen2015combining}
+Nguyen, T. H. and Grishman, R., ``Combining neural networks and log-linear models to improve relation extraction,'' \emph{arXiv preprint arXiv:1511.05926}, 2015.
+
+\bibitem{nguyen2009convolution}
+Nguyen, T. V. T., Moschitti, A. and Riccardi, G., ``Convolution kernels on constituent, dependency and sequential structures for relation extraction,'' in \emph{Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing}, pp. 1378--1387. 2009.
+
+\bibitem{Peng2017Cross}
+Peng, N., Poon, H., Quirk, C., Toutanova, K. and Yih, W. T., ``Cross-sentence n-ary relation extraction with graph lstms,'' \emph{Transactions of the Association for Computational Linguistics},vol. 5, pp.101--115. 2017.
+
+\bibitem{DBLP:journals/corr/abs-1802-05365}
+Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K. and Zettlemoyer, L., ``Deep contextualized word representations,'' \emph{CoRR}, abs/1802.05365,  2018.
+
+\bibitem{qin2021entity}
+Qin, Y., Yang, W., Wang, K., Huang, R., Tian, F., Ao, S. and Chen, Y., ``Entity relation extraction based on entity indicators,'' \emph{Symmetry}, vol. 13, no. 4, pp.539. 2021.
+
+\bibitem{roth2002probabilistic} 
+Roth, D. and Yih, W. T., ``Probabilistic reasoning for entity relation recognition,'' \newblock in \emph{COLING 2002: The 19th International Conference on Computational Linguistics}. 2002.
+
+\bibitem{roth-yih-2004-linear}
+Roth, D. and Yih, W. T., ``A linear programming formulation for global inference in natural language tasks,'' in \emph{Proceedings of the Eighth Conference on Computational Natural Language Learning ({C}o{NLL}-2004) at {HLT}-{NAACL} 2004}, Association for Computational Linguistics, Boston, Massachusetts, USA. pp. 1--8, 2004.
+
+\bibitem{roth2007global}
+Roth, D. and Yih, W. T., ``Global inference for entity and relation identification via a linear programming formulation,'' \emph{Introduction to statistical relational learning}, pp. 553--580, 2007.
+
+\bibitem{shen2015method}
+Shen J., Brdiczka O., ``Method and system for building an entity profile from email address and name information,'' \emph{U.S.Patent No. 8,949,358}, 2015.
+
+\bibitem{sogaard2015using}
+Søgaard, A., Plank, B. and Alonso, H., ``Using frame semantics for knowledge extraction from twitter,'' in \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, vol. 29, no. 01, 2015.
+
+\bibitem{2019Joint}
+Sun, C., Gong, Y., Wu, Y., Gong, M., Jiang, D., Lan, M., Sun, S. and Duan, N., ``Joint type inference on entities and relations via graph convolutional networks,'' in \emph{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics}, Association for Computational Linguistics, Florence, Italy, pp. 1361--1370, 2019.
+
+\bibitem{sun2020relation}
+Sun, K., Zhang, R., Mao, Y., Mensah, S. and Liu, X., ``Relation extraction with convolutional network over learnable syntax-transport graph,'' in \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, vol.34, no. 05, pp. 8928--8935, 2020.
+
+%\bibitem[{Sun et~al.(2020{\natexlab{b}})Sun, Zhang, Mao, Mensah, and
+%  Liu}]{2020Relation}
+%Sun, Kai, Richong Zhang, Yongyi Mao, Samuel Mensah, and Xudong Liu.
+%  2020{\natexlab{b}}.
+%\newblock Relation extraction with convolutional network over learnable
+%  syntax-transport graph.
+%\newblock \emph{Proceedings of the AAAI Conference on Artificial Intelligence},
+%  34(5):8928--8935.
+
+\bibitem{10.1162/coli_a_00420}
+Tsujii, J., ``Natural Language Processing and Computational Linguistics,'' \emph{Computational Linguistics}, vol. 47, no. 4, pp. 707--727,  2021.
+
+\bibitem{2018RESIDE}
+Vashishth, S., Joshi, R., Prayaga, S. S., Bhattacharyya, C. and Talukdar, P., ``RESIDE: Improving distantly-supervised neural relation extraction using side information,'' in \emph{Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing}, Association for Computational Linguistics, Brussels, Belgium,  pp. 1257--1266, 2018.
+
+\bibitem{2020Exploiting}
+Veyseh, A. P. B., Dernoncourt, F., Dou, D. and Nguyen, T. H., ``Exploiting the syntax-model consistency for neural relation extraction,'' in \emph{Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics}, pp. 8021--8032, 2020.
+
+\bibitem{veyseh2019improving}
+Veyseh, A. P. B., Nguyen, T. H. and Dou, D., ``Improving cross-domain performance for relation extraction via dependency prediction and information flow control,'' \emph{arXiv preprint arXiv:1907.03230}, 2019.
+
+\bibitem{wang2019extracting}
+Wang, H., Tan, M., Yu, M., Chang, S., Wang, D., Xu, K., Guo, X. and Potdar, S., ``Extracting multiple-relations in one-pass with pre-trained transformers,'' \emph{arXiv preprint arXiv:1902.01030}, 2019.
+
+\bibitem{wang-lu-2020-two}
+Wang, J. and Lu, W., ``Two are better than one: Joint entity and relation extraction with table-sequence encoders,'' in \emph{Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, Association for Computational Linguistics, Online, pp. 1706--1721, 2020.
+
+\bibitem{wang2021variational}
+Wang, W. and Pan, S. J., ``Variational deep logic network for joint inference of entities and relations,'' \emph{Computational Linguistics}, vol. 47, no. 4, pp. 775--812, 2021.
+
+\bibitem{xu2021feature}
+Xu, J., Chen, Y., Qin, Y., Huang, R. and Zheng, Q., ``A feature combination-based graph convolutional neural network model for relation extraction,''
+\newblock \emph{Symmetry}, vol. 13, no. 8 pp. 1458, 2021.
+
+\bibitem{2015Semantic}
+Xu, K., Feng, Y., Huang, S. and Zhao, D., ``Semantic relation classification via convolutional neural networks with simple negative sampling,'' \emph{arXiv preprint arXiv:1506.07650}, vol.71, no. 7, 2015. 
+
+\bibitem{2015Classifying}
+Xu, Y., Mou, L., Li, G., Chen, Y., Peng, H. and Jin, Z., ``Classifying relations via long short term memory networks along shortest dependency paths,'' in \emph{Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing}, Association for Computational Linguistics, Lisbon, Portugal, pp. 1785--1794, 2015.
+
+\bibitem{Yang2014Joint}
+Yang, M. C., Duan, N., Zhou, M. and Rim, H. C., ``Joint relational embeddings for knowledge-based question answering,'' in \emph{Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)}, pp. 645--650, 2014.
+
+\bibitem{zelenko2003kernel}
+Zelenko, D., Aone, C. and Richardella, A., ``Kernel methods for relation extraction,'' \emph{Journal of machine learning research}, vol. 3, pp. 1083--1106, 2003.
+
+\bibitem{2015Distant}
+Zeng, D., Liu, K., Chen, Y. and Zhao, J., ``Distant supervision for relation extraction via piecewise convolutional neural networks,'' in \emph{Conference on Empirical Methods in Natural Language Processing}, pp. 1753--1762, 2015.
+
+\bibitem{zeng-etal-2014-relation}
+Zeng, D., Liu, K., Lai, S., Zhou, G. and Zhao, J., ``Relation classification via convolutional deep neural network,'' in \emph{Proceedings of {COLING} 2014, the 25th International Conference on Computational Linguistics: Technical Papers}, Dublin City University and Association for Computational Linguistics, Dublin, Ireland, pp. 2335--2344, 2014.
+
+\bibitem{Zhang2014Aspect}
+Zhang, L. and Liu, B., ``Aspect and entity extraction for opinion mining,'' in \emph{Data mining and knowledge discovery for big data}, Springer, pp. 1--40, 2014.
+
+\bibitem{zhang2017end}
+Zhang, M., Zhang, Y. and Fu, G., ``End-to-end neural relation extraction with global optimization,'' in \emph{Proceedings of the 2017 Conference on Empirical Methods in
+  Natural Language Processing}, pp. 1730--1740, 2017.
+
+\bibitem{2020Distilling}
+Zhang, Z., Shu, X., Yu, B., Liu, T., Zhao, J., Li, Q. and Guo, L., ``Distilling knowledge from well-informed soft labels for neural relation extraction,'' \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, vol. 34, no. 5, pp. 9620--9627, 2020.
+
+\bibitem{DBLP:journals/corr/abs-2010-12812}
+Zhong, Z. and Chen, D., ``A frustratingly easy approach for joint entity and relation extraction,'' \newblock \emph{CoRR}, abs/2010.12812, 2020
+
+\bibitem{zhou2010tree}
+Zhou, G., Qian, L. and Fan, J., ``Tree kernel-based semantic relation extraction with rich syntactic and semantic information,'' \emph{Information Sciences}, vol. 180, no. 8, pp. 1313--1325, 2010.
+
+\bibitem{guodong2005exploring}
+Zhou, G., Su, J., Zhang, J. and Zhang, M., ``Exploring various knowledge in relation extraction,'' in \emph{Proceedings of the 43rd annual meeting of the association for computational linguistics (acl’05)}, pp. 427--434, 2005.
